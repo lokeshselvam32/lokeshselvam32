@@ -148,12 +148,8 @@ A Java-based platform designed to connect **food donors and consumers** and help
 
 ---
 
-###📬 Contact
+### 📬 Contact
 
-### 💼 LinkedIn
+**LinkedIn:** [linkedin.com/in/lokeshselvam32](https://www.linkedin.com/in/lokeshselvam32/)
 
-[linkedin.com/in/lokeshselvam32](https://www.linkedin.com/in/lokeshselvam32/)
-
-### 📧 Email
-
-[lokeshselvam32@gmail.com](mailto:lokeshselvam32@gmail.com)
+**Email:** [lokeshselvam32@gmail.com](mailto:lokeshselvam32@gmail.com)
