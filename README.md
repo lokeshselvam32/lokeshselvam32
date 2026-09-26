@@ -164,6 +164,10 @@ A Java-based platform designed to connect **food donors and consumers** and help
 
 </p>
 
+---
+
 ### 📌 Location 
 
 **Kanchipuram, 631-502**
+
+---
