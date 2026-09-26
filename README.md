@@ -148,39 +148,12 @@ A Java-based platform designed to connect **food donors and consumers** and help
 
 ---
 
-# 📚 Currently Learning
-
-```text
-UI/UX Design
-      ↓
-Web Design
-      ↓
-Frontend Development
-      ↓
-Java Development
-      ↓
-Backend Development
-      ↓
-Real-World Application Development
-
-# 📬 Contact Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lokeshselvam32/">
-<img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lokeshselvam32@gmail.com">
-<img src="https://img.shields.io/badge/Email-lokeshselvam32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+###📬 Contact
 
 ### 💼 LinkedIn
 
-**https://www.linkedin.com/in/lokeshselvam32/**
+[linkedin.com/in/lokeshselvam32](https://www.linkedin.com/in/lokeshselvam32/)
 
 ### 📧 Email
 
-**lokeshselvam32@gmail.com**
+[lokeshselvam32@gmail.com](mailto:lokeshselvam32@gmail.com)
