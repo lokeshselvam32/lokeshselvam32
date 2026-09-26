@@ -150,14 +150,22 @@ A Java-based platform designed to connect **food donors and consumers** and help
 
 ### 📬 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokeshselvam32/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/lokeshselvam32/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lokeshselvam32/">
+    linkedin.com/in/lokeshselvam32/
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
 
-  <a href="mailto:lokeshselvam32@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email"/>
+  <a href="mailto:lokeshselvam32@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" alt="Email"/>
   </a>
+  <a href="mailto:lokeshselvam32@gmail.com">
+    lokeshselvam32@gmail.com
+  </a>
+
 </p>
