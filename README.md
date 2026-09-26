@@ -170,10 +170,8 @@ A Java-based platform designed to connect **food donors and consumers** and help
     lokeshselvam32@gmail.com
   </a>
 
-  <br><br>
-
-  <img src="https://cdn.simpleicons.org/googlemaps" width="35" height="35" alt="Location"/>
-  &nbsp;
-  Kanchipuram, 631-502
-
 </p>
+
+### 📌 Location 
+
+**Kanchipuram, 631-502**
