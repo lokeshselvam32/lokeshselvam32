@@ -151,7 +151,7 @@ A Java-based platform designed to connect **food donors and consumers** and help
 ### 📬 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lokeshselvam32/" target="blank">
+  <a href="https://www.linkedin.com/in/lokeshselvam32/" target=" blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
 
