@@ -152,12 +152,14 @@ A Java-based platform designed to connect **food donors and consumers** and help
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/lokeshselvam32/" >
+<a href="https://www.linkedin.com/in/lokeshselvam32/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+  
 <a href="mailto:lokeshselvam32@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email"/>
 </a>
