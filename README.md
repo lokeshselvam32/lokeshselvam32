@@ -153,13 +153,13 @@ A Java-based platform designed to connect **food donors and consumers** and help
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lokeshselvam32/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:lokeshselvam32@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="42" />
 </a>
 
 </p>
